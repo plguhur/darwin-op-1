@@ -36,6 +36,11 @@ namespace Robot
 			ID_L_ANKLE_ROLL         = 18,
 			ID_HEAD_PAN             = 19,
 			ID_HEAD_TILT            = 20,
+                        ID_R_POIGNET            = 21,
+                        ID_L_POIGNET            = 22,
+                        ID_R_MAIN               = 23,
+                        ID_L_MAIN               = 24,
+
 			NUMBER_OF_JOINTS
 		};
 
